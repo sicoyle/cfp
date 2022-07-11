@@ -1,4 +1,4 @@
-Samantha Coyle is a Software Engineer within the Internet of Things Group at Intel Coporation with experience building
+Samantha Coyle is a Software Engineer within the Internet of Things Group at Intel Corporation with experience building
 and enabling computer vision based containerized applications and Go based microservices for industrial applications at the edge.
 In 2021, 
 she attained her CKAD certificate depicting her knowledge and interest in distributed workloads. 
@@ -14,8 +14,8 @@ sustainability and ethics, as well as growing herself as an engineer:
 - 2018 WISE conference poster presentation analyzing resource consumption and runtime efficiency for several programming languages with widely varying architectures 
 - 2018 Super Computing poster presentation on Dynamic Facility Layout Problem with a more efficient solution proposed 
 - 2018 IBESCC: Tyler Technologies: Injustice Within the Justice System 
-- 2017 IBESCC: Addressing Harassment, Exclusion, and Work-life Balance in Silicon Valley Culture
+- 2017 IBESCC: Addressing Harassment, Exclusion, and Work-life Balance in Workplace Culture
 
 Outside of work, Samantha is out and about enjoying the outdoors, walking her dog,
-or playing with 4 kittens she found and adopted.
+or playing with the 4 kittens she found and adopted.
 She loves volleyball and working out - both mentally and physically.
