@@ -8,7 +8,7 @@ This was the first of a few problems we encountered on our journey; from limitat
 
 ## Samantha Coyle
 
-[Bio](./samantha-coyle-gophercon-bio.md) | [Pic](../assets/samantha-coyle-pic-2022.jpg)
+[Bio](./samantha-coyle-gophercon-bio.md) | [Pic](../../assets/samantha-coyle-pic-2022.jpg)
 
 ## Resources
 

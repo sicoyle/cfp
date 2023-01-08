@@ -10,7 +10,7 @@ This presentation walks through the learnings and challenges encountered during 
 
 ## Samantha Coyle
 
-[Bio](./samantha-coyle-oss-bio.md) | [Pic](../assets/samantha-coyle-pic-2022.jpg)
+[Bio](./samantha-coyle-oss-bio.md) | [Pic](../../assets/samantha-coyle-pic-2022.jpg)
 
 ## Resources
 
