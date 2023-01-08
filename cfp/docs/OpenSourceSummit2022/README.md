@@ -14,4 +14,4 @@ This presentation walks through the learnings and challenges encountered during 
 
 ## Resources
 
-[PowerPoint](./OSS_ComputerVision_to_Secure%20Surroundings_at_Edge.pdf) |
+[PowerPoint](./OSS_ComputerVision_to_Secure%20Surroundings_at_Edge.pdf) | [YouTube Recording](https://youtu.be/l2ttxMVFM3s) | [Conference Post](https://ossna2022.sched.com/event/11Nhu/computer-vision-to-secure-your-surroundings-with-aiml-solution-built-using-open-source-tools-at-the-edge-samantha-coyle-neethu-elizabeth-simon-intel-corporation)
